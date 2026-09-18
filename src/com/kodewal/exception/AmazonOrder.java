@@ -15,7 +15,9 @@ public class AmazonOrder {
   public static void main(String[] args) {
     AmazonOrder order = new AmazonOrder();
     order.doPlaceOrder("bat", -1);
-
+    System.out.println("Pwan");
+    System.out.println("DK");
   }
+
 
 }
